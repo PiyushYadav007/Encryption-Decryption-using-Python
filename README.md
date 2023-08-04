@@ -43,7 +43,7 @@ python main.py
 ##Examples
 Here's an example of how to run the script for encryption:
 <pre>
-```bash
+
 ENCRYPTION AND DECRYPTION
 
 1. Encrypt text
@@ -54,12 +54,12 @@ Enter your option 1 or 2 or 3: 1
 Enter File Name: secret_data.txt
 Enter the name of the file to be saved as encrypted_data.bin
 Encrypted message: gAAAAABhLKc2O...8eeWpsd0pdQ==
-```
+
 </pre>
 
 Here's an example of how to run the script for decryption:
 <pre>
-```bash
+
 ENCRYPTION AND DECRYPTION
 
 1. Encrypt text
@@ -71,7 +71,7 @@ Enter Key: gIFK...8eeWpsd0pdQ==
 Enter File Name: encrypted_data.bin
 Enter the file name to be saved as decrypted_data.txt
 Decrypted message: This is the secret data.
-```
+
 </pre>
 
 ##Note
