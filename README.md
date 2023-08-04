@@ -3,9 +3,20 @@
 ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg)
 ![Cryptography](https://img.shields.io/badge/cryptography-v3.4+-green.svg)
 
-## Description
+## Introduction
 
 This Python project provides a simple implementation of encryption and decryption using the `cryptography.fernet` library. It allows you to encrypt the contents of a specified file and store the encrypted data, along with a generated encryption key, into a new file. The encrypted data can later be decrypted using the same key.
+
+## Table of Contents
+
+1.[Introduction](#Introduction)
+2.[Prerequisites](#Prerequisites)
+3.[Installation](#Installation)
+4.[Usage](#Usage)
+5.[Examples](Examples)
+6.[Note](#Note)
+7.[License](#License)
+8.[Contact](#Contact)
 
 ## Prerequisites
 
@@ -20,7 +31,7 @@ To use this project, you'll need to install the `cryptography` library. You can 
 pip install cryptography
 ```
 
-##Usage
+## Usage
 1.Make sure you have Python and the necessary library installed.
 
 2.Copy the content of main.py into a new Python script or use the existing one.
@@ -40,7 +51,7 @@ python main.py
 
 7.To decrypt the file, choose option 2 and enter the encryption key when prompted. Provide the name of the file with the encrypted content and the name of the file where you want to save the decrypted content.
 
-##Examples
+## Examples
 Here's an example of how to run the script for encryption:
 <pre>
 
@@ -74,15 +85,15 @@ Decrypted message: This is the secret data.
 
 </pre>
 
-##Note
+## Note
 -Keep the encryption key (key.txt) safe and secure. Without it, you won't be able to decrypt the data.
 
 -Be cautious while handling the encryption key and the decrypted files.
 
 -This script provides a basic implementation for educational purposes and should not be used for highly sensitive data without proper security measures.
 
-##License
+## License
 This project is licensed under the __**[MIT License](https://github.com/spdx/license-list-data/blob/main/licenses.md)**__.
 
-##Contact
+## Contact
 If you have any questions or suggestions, feel free to contact me at __**[Linkedin](https://www.linkedin.com/in/piyushyadav-supernova)**__.
