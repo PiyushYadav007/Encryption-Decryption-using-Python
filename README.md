@@ -18,6 +18,7 @@ To use this project, you'll need to install the `cryptography` library. You can 
 
 ```bash
 pip install cryptography
+```
 
 ##Usage
 1.Make sure you have Python and the necessary library installed.
@@ -27,7 +28,7 @@ pip install cryptography
 3.Run the script:
 ```bash
 python main.py
-
+```
 4.The program will display a menu with three options:
 
 -Option 1: Encrypt text.
@@ -81,7 +82,7 @@ Decrypted message: This is the secret data.
 -This script provides a basic implementation for educational purposes and should not be used for highly sensitive data without proper security measures.
 
 ##License
-This project is licensed under the __**MIT License**__.
+This project is licensed under the __**[MIT License](https://github.com/spdx/license-list-data/blob/main/licenses.md)**__.
 
 ##Contact
 If you have any questions or suggestions, feel free to contact me at __**[Linkedin](https://www.linkedin.com/in/piyushyadav-supernova)**__.
