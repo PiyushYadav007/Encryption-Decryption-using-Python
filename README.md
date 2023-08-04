@@ -9,14 +9,14 @@ This Python project provides a simple implementation of encryption and decryptio
 
 ## Table of Contents
 
-1.[Introduction](#Introduction)
-2.[Prerequisites](#Prerequisites)
-3.[Installation](#Installation)
-4.[Usage](#Usage)
-5.[Examples](Examples)
-6.[Note](#Note)
-7.[License](#License)
-8.[Contact](#Contact)
+1. [Introduction](#Introduction)
+2. [Prerequisites](#Prerequisites)
+3. [Installation](#Installation)
+4. [Usage](#Usage)
+5. [Examples](Examples)
+6. [Note](#Note)
+7. [License](#License)
+8. [Contact](#Contact)
 
 ## Prerequisites
 
